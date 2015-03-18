@@ -1,0 +1,39 @@
+
+
+
+.navbar-header {
+    width: 100%;
+    background: #ffffff;
+}
+
+.form-control {
+    witdh: 30%;
+}
+
+.form-group {
+    width: auto;
+}
+
+.btn {
+    background-color:#d01a9f;
+}
+
+div {
+    background: #fff;
+}
+
+.img-responsive {
+    float:left;
+}
+
+.navbar-form {
+    padding-top:1.3%;
+}
+
+#login{
+   padding-top:1.3%; 
+}
+
+#desplegable {
+    display: none;
+}
